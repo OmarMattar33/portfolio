@@ -1,0 +1,49 @@
+.nav-item{
+    margin-left: 400px;
+}
+.navbar-brand{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 400px;
+   
+    margin-top: 10px;
+}
+.info{
+    margin-top: 80px;
+    text-align: left;
+    
+}
+h1{
+    margin-left: 100px;
+   
+}
+h2{
+    margin-left: 150px;
+    
+}
+p{
+    margin-left: 100px;
+    color:dimgray;
+}
+.button{
+    margin-left: 300px;
+    background-color:rgb(194, 30, 30);
+    color:gainsboro;
+}
+.h21{
+    display: inline;
+
+}
+.h22{
+    display: inline;
+    text-align: center;
+    margin-left: 3px;
+    color:rgb(150, 10, 10)
+ 
+    
+}
+.me{
+    border: brown solid;
+    overflow: hidden;
+}
